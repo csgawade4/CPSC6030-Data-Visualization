@@ -1,2 +1,5 @@
-# CPSC6030-Data-Visualization
-Data Visualization Project using D3.js
+# DataVisualization
+
+Website URL: https://joel-kiran.github.io/DataVisualization/
+
+Project Demo - https://www.youtube.com/watch?v=ypgmc3FSckQ
